@@ -38,5 +38,3 @@ npm run build
 ```shell
 npm start
 ```
-
-### Like and Subscribe 🌟
